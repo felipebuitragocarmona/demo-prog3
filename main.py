@@ -1,8 +1,8 @@
 def otro(x,y):
     """
-    Mas documentación
+    Cambio a multiplicación
     """
-    return x+y
+    return x*y
 
 def resta(x,y):
     """
