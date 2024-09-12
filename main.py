@@ -1,3 +1,9 @@
+def otro(x,y):
+    """
+    Mas documentación
+    """
+    return x+y
+
 def resta(x,y):
     """
     esto es una resta
