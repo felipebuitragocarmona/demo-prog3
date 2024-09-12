@@ -1,8 +1,14 @@
 def otro(x,y):
     """
+<<<<<<< HEAD
     Cambio a multiplicación
     """
     return x*y
+=======
+    Cambio a división
+    """
+    return x/y
+>>>>>>> CU-Resta
 
 def resta(x,y):
     """
